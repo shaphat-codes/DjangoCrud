@@ -5,6 +5,9 @@ Django Crud Library
 my-django-crud is a python library built using django rest framework that enables you perform CRUD functionalities on
 your Django models without writing serializer classes and view functions.
 
+## HOW TO INNSTALL
+pip install my-django-crud
+
 Quick Start
 ===========
 
