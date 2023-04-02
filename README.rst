@@ -36,3 +36,8 @@ Quick Start
 NOTE
 =====
 Replace "my_model" with your own model 
+
+EXTRA
+=====
+
+If you want an in-depth test, visit https://github.com/lonebhen/Testing-DjangoCrud
